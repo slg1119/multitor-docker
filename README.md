@@ -1,8 +1,8 @@
 # multitor-docker
 
-This is a Ubuntu Image that runs multitor. 
-For details information about multitor check out this repo. https://github.com/trimstray/multitor
-Refer to https://github.com/evait-security/docker-multitor
+This is a Ubuntu Image that runs multitor.  
+For details information about multitor check out this repo. https://github.com/trimstray/multitor  
+Refer to https://github.com/evait-security/docker-multitor  
 
 ## Build
 ```bash
